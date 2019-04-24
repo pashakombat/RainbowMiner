@@ -1,7 +1,7 @@
-# RainbowMiner [![current release](https://img.shields.io/github/release/RainbowMiner/RainbowMiner.svg)](https://github.com/RainbowMiner/RainbowMiner/releases) [![current release date](https://img.shields.io/github/release-date/RainbowMiner/RainbowMiner.svg)](https://github.com/RainbowMiner/RainbowMiner/releases) [![open issues](https://img.shields.io/github/issues-raw/RainbowMiner/RainbowMiner.svg)](https://github.com/RainbowMiner/RainbowMiner/issues)
-###### **RELEASES: [https://github.com/RainbowMiner/RainbowMiner/releases](https://github.com/RainbowMiner/RainbowMiner/releases)**
+# RainbowMiner [![current release](https://img.shields.io/github/release/RainbowMiner/RainbowMiner.svg)](https://github.com/pashakombat/RainbowMinerF/releases) [![current release date](https://img.shields.io/github/release-date/RainbowMiner/RainbowMiner.svg)](https://github.com/pashakombat/RainbowMinerF/releases) [![open issues](https://img.shields.io/github/issues-raw/RainbowMiner/RainbowMiner.svg)](https://github.com/pashakombat/RainbowMinerF/issues)
+###### **RELEASES: [https://github.com/pashakombat/RainbowMinerF/releases](https://github.com/pashakombat/RainbowMinerF/releases)**
 
-###### **Actual master.zip: [Developer Version master.zip](https://github.com/RainbowMiner/RainbowMiner/archive/master.zip)**
+###### **Actual master.zip: [Developer Version master.zip](https://github.com/pashakombat/RainbowMinerF/archive/master.zip)**
 
 ###### **Central monitoring for all of your rigs: [https://rbminer.net](https://rbminer.net)**
 
